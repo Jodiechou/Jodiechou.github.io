@@ -27,5 +27,5 @@ main:
    - title: "Professional Services"
     url: "/#-professional-services"
 
-  - title: "Internships"
-    url: "/#-internships"
+#   - title: "Internships"
+#     url: "/#-internships"
