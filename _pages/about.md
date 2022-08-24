@@ -38,8 +38,8 @@ My research mainly focuses on lexical semantics, especially learning the represe
 </div>
 </div> -->
 
-- **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://github.com](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
-- **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle](https://github.com](https://aclanthology.org/2021.paclic-1.52.pdf](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
+- **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
+- **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
 - Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 - **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
@@ -54,11 +54,16 @@ My research mainly focuses on lexical semantics, especially learning the represe
 - *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
 - *Sep. 2009-Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with average score 81.6%).
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
- -->
- # 👩‍🏫 Teaching (University of Liverppol) 
+# 💬 Invited Talks
+- *Mar. 2022*, Social Biases in Sense Embeddings. *NLP Group at University of Liverpool*.
+- *Jun. 2021*, Sense embeddings Learning Using Contextualised and Static Word Embeddings. *ML Group at University of Liverpool*.
+- *May, 2019*, Evaluation on Human and Machine Translations. *Research Student Talks at University of Liverpool*.
+
+Feel free to drop me an email if you’d like me to give a talk at your event/seminar. 
+
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 👩‍🏫 Teaching (University of Liverppol) 
 - Teaching Assistant, Database Development (2018/2019)
 - Teaching Assistant, Mobile Computing (2018/2019)
 - Teaching Assistant, App Development (2018/2019, 2019/2020, 2020/2021)
