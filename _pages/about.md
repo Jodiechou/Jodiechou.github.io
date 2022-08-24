@@ -63,7 +63,8 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 👩‍🏫 Teaching (University of Liverppol) 
+# 👩‍🏫 Teaching 
+## University of Liverppol
 - Teaching Assistant, Database Development (2018/2019)
 - Teaching Assistant, Mobile Computing (2018/2019)
 - Teaching Assistant, App Development (2018/2019, 2019/2020, 2020/2021)
@@ -74,11 +75,12 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
 - Teaching Assistant, Data mining and visualization (masters level) (2021/2022)
 
-# 📚 Supervision (University of Liverpool)
+# 📚 Supervision 
+## University of Liverpool
 - (Co-) supervised one postgraduate student’s final project in 2022
 - (Co-) supervised one undergraduate student’s final project in 2022
 - (Co-) supervised two undergraduate students’ summer projects in 2022
 - (Co-) supervised one undergraduate student’s summer project in 2021
  
-# 💻 Professional Service
+# 💻 Professional Services
 - ACL Rolling Review (ARR)
