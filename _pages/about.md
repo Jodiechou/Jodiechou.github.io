@@ -17,42 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in the University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at University of Liverpool.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research mainly focuses on lexical semantics, especially learning the representations of word senses. This work aims to build models to create robust multi-prototype representations for different senses of words. My research interests are broadly in in natural language understanding, such as language representation learning, social biases in embeddings, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) accepted to ACL 2022 main conference. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022).
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://github.com](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
+- **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle]([https://github.com](https://aclanthology.org/2021.paclic-1.52.pdf](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
+- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
+- **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
+- Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
+- Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
+- Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Educations
+- *Dec. 2018 - present*, PhD student in Computer Science (Natural Language Porcessing), University of Liverpool, UK. 
+- *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
+- *Sep. 2009-Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with average score 81.6%).
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+ -->
+ # 👩‍🏫 Teaching (University of Liverppol) 
+- Teaching Assistant, Database Development (2018/2019)
+- Teaching Assistant, Mobile Computing (2018/2019)
+- Teaching Assistant, App Development (2018/2019, 2019/2020, 2020/2021)
+- Teaching Assistant, Computer Systems (2018/2019)
+- Teaching Assistant, Object-Oriented Programming (2019/2020)
+- Teaching Assistant, Software Engineering (2019/2020, 2020/2021)
+- Teaching Assistant, Applied Artificial Intelligence (masters level) (2020/2021)
+- Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
+- Teaching Assistant, Data mining and visualization (masters level) (2021/2022)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Supervision (University of Liverpool)
+- (Co-) supervised one postgraduate student’s final project in 2022
+- (Co-) supervised one undergraduate student’s final project in 2022
+- (Co-) supervised two undergraduate students’ summer projects in 2022
+- (Co-) supervised one undergraduate student’s summer project in 2021
+ 
+# 💻 Professional Service
+- ACL Rolling Review (ARR)
