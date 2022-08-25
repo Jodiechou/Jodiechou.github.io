@@ -18,14 +18,14 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
     
-   - title: "Teaching"
-    url: "/#-teaching"
+#    - title: "Teaching"
+#     url: "/#-teaching"
     
-   - title: "Supervision"
-    url: "/#-supervision"
+#    - title: "Supervision"
+#     url: "/#-supervision"
     
-   - title: "Professional Services"
-    url: "/#-professional-services"
+#    - title: "Professional Services"
+#     url: "/#-professional-services"
 
 #   - title: "Internships"
 #     url: "/#-internships"
