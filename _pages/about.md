@@ -23,7 +23,7 @@ My research mainly focuses on lexical semantics, especially learning the represe
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) accepted to ACL 2022 main conference. 
+- *Feb. 2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) accepted to ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
