@@ -23,7 +23,7 @@ My research mainly focuses on lexical semantics, especially learning the represe
 
 
 # 🔥 News
-- *06/10/2022*: &nbsp;🎉🎉 One paper [investigating the relationship between frequency and L2 norm of sense embeddings] is accepted to Fidings of EMNLP 2022. 
+- *06/10/2022*: &nbsp;🎉🎉 One paper on investigating the relationship between frequency and L2 norm of sense embeddings is accepted to Findings of EMNLP 2022. 
 - *24/02/2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) is accepted to ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
