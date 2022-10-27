@@ -23,7 +23,7 @@ My research mainly focuses on lexical semantics, especially learning the represe
 
 
 # 🔥 News
-- *06/10/2022*: &nbsp;🎉🎉 One paper on investigating the relationship between frequency and L2 norm of sense embeddings is accepted to Findings of EMNLP 2022. 
+- *06/10/2022*: &nbsp;🎉🎉 One paper [on investigating the relationship between frequency and L2 norm of sense embeddings](https://arxiv.org/abs/2210.14815) is accepted to Findings of EMNLP 2022. 
 - *24/02/2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) is accepted to ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -31,7 +31,7 @@ My research mainly focuses on lexical semantics, especially learning the represe
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-
+- **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://arxiv.org/abs/2210.14815). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022).
 - **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022).
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
