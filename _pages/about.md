@@ -50,10 +50,10 @@ My research mainly focuses on lexical semantics, especially learning the represe
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. 
 
-# 🎓 Educations
+<!-- # 🎓 Educations
 - *Dec. 2018 - present*, PhD student in Computer Science (Natural Language Porcessing), University of Liverpool, UK. 
 - *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
-- *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with average score 81.6%).
+<!-- - *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with average score 81.6%). --> -->
 
 # 💬 Invited Talks
 - *Mar. 2022*, Social Biases in Sense Embeddings. *NLP Group at University of Liverpool*.
