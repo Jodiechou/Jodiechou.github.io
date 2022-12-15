@@ -84,4 +84,6 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - (Co-) supervised one undergraduate student’s summer project in 2021
  
 # 💻 Professional Services
-- ACL Rolling Review (ARR)
+**Reviewer**
+- ACL Rolling Review (ARR) (2021-)
+- EACL (2022)
