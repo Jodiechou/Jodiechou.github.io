@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at University of Liverpool.
 
-My research mainly focuses on lexical semantics, especially learning the representations of word senses. This work aims to build models to create robust multi-prototype representations for different senses of words. My research interests are broadly in natural language understanding, such as language representation learning, social biases in embeddings, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
+My research mainly focuses on lexical semantics, especially learning the representations of word senses. This work aims to build models to create robust multi-prototype representations for different senses of words. My research interests are broadly in natural language understanding, such as language representation learning, social biases in embeddings, commonsense reasoning, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
 
 
 # 🔥 News
