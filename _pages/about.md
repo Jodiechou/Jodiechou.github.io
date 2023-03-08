@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at University of Liverpool.
+I am a Postdoctoral Research Associate in the School of Computer Science and Informatics at Cardiff University. Before I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at University of Liverpool.
 
-My research mainly focuses on lexical semantics, especially learning the representations of word senses. This work aims to build models to create robust multi-prototype representations for different senses of words. My research interests are broadly in natural language understanding, such as language representation learning, social biases in embeddings, commonsense reasoning, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
+My research mainly focuses on lexical semantics, especially learning the representations of word senses. This work aims to build models to create robust multi-prototype representations for different senses of words. My research interests are broadly in natural language understanding, such as language representation learning, social biases in language models, commonsense reasoning, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
 
 
 # 🔥 News
@@ -86,4 +86,5 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 # 💻 Professional Services
 **Reviewer**
 - ACL Rolling Review (ARR) (2021-)
+- ACL (2023)
 - EACL (2022)
