@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Zhou (Jodie)"
   avatar           : "images/YiZhou-pic.png"
-  bio              : "Final Year PhD student, Department of Computer Science, University of Liverpool"
-  location         : "Liverpool, UK"
+  bio              : "Postdoctoral Research Associate, School of Computer Science and Informatics, Cardiff University"
+  location         : "Cardiff, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3BdddIMAAAAJ&hl=en"
-  email            : "y.zhou71@liverpool.ac.uk"
+  email            : "zhouy131@cardiff.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
