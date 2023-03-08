@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Zhou (Jodie)"
   avatar           : "images/YiZhou-pic.png"
-  bio              : "Postdoctoral Research Associate, School of Computer Science and Informatics, Cardiff University"
-  location         : "Cardiff, UK"
+  bio              : "Postdoctoral Research Associate"
+  location         : "School of Computer Science and Informatics, Cardiff University, Cardiff, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3BdddIMAAAAJ&hl=en"
