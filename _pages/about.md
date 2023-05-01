@@ -87,4 +87,5 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 **Reviewer**
 - ACL Rolling Review (ARR) (2021-)
 - ACL (2023)
+- *SEM (2023)
 - EACL (2022)
