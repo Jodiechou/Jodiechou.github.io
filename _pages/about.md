@@ -56,9 +56,10 @@ My research mainly focuses on lexical semantics, especially learning the represe
 <!-- - *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with average score 81.6%). --> 
 
 # 💬 Invited Talks
+- *Mar. 2023*, Representation Learning for Word Senses and Evaluation of Their Properties. *Cardiff NLP Seminar at Cardiff University*.
 - *Mar. 2022*, Social Biases in Sense Embeddings. *NLP Group at University of Liverpool*.
 - *Jun. 2021*, Sense embeddings Learning Using Contextualised and Static Word Embeddings. *ML Group at University of Liverpool*.
-- *May, 2019*, Evaluation on Human and Machine Translations. *Research Student Talks at University of Liverpool*.
+- *May. 2019*, Evaluation on Human and Machine Translations. *Research Student Talks at University of Liverpool*.
 
 Feel free to drop me an email if you’d like me to give a talk at your event/seminar. 
 
