@@ -67,15 +67,15 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 
 # 👩‍🏫 Teaching  
 **University of Liverppol**
-- Teaching Assistant, Database Development (2018/2019)
-- Teaching Assistant, Mobile Computing (2018/2019)
-- Teaching Assistant, App Development (2018/2019, 2019/2020, 2020/2021)
-- Teaching Assistant, Computer Systems (2018/2019)
-- Teaching Assistant, Object-Oriented Programming (2019/2020)
-- Teaching Assistant, Software Engineering (2019/2020, 2020/2021)
-- Teaching Assistant, Applied Artificial Intelligence (masters level) (2020/2021)
-- Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
 - Teaching Assistant, Data mining and visualization (masters level) (2021/2022)
+- Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
+- Teaching Assistant, Applied Artificial Intelligence (masters level) (2020/2021)
+- Teaching Assistant, App Development (2020/2021, 2019/2020, 2018/2019)
+- Teaching Assistant, Software Engineering (2020/2021, 2019/2020)
+- Teaching Assistant, Object-Oriented Programming (2019/2020)
+- Teaching Assistant, Computer Systems (2018/2019)
+- Teaching Assistant, Mobile Computing (2018/2019)
+- Teaching Assistant, Database Development (2018/2019)
 
 # 📚 Supervision  
 **University of Liverpool**
