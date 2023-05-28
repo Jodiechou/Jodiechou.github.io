@@ -95,7 +95,7 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation (Data challenge ICWSM 2023)
 
 ***Workshop Co-organizer***
-- 2nd CARDIFF NLP SUMMER WORKSHOP
+- 2nd Cardiff NLP Summer Workshop
 
 **Reviewer**
 - ACL Rolling Review (ARR) (2021-)
