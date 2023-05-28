@@ -23,6 +23,9 @@ My research mainly focuses on lexical semantics, especially learning the represe
 
 
 # 🔥 News
+- *05/10/2023*: &nbsp;🎉🎉 One paper [on dynamic contextualised embeddings learning](https://arxiv.org/abs/2208.10734) is accepted to ACL 2023 main conference.
+- *05/10/2023*: &nbsp;🎉🎉 One paper [on solving consine similarity underestimation between high frequency words](https://arxiv.org/abs/2305.10610) is accpeted to Findings of ACL 2023.
+- *05/10/2023*: &nbsp;🎉🎉 One paper one meta-sense embeddings learning is accepted to Findings of ACL 2023.
 - *06/10/2022*: &nbsp;🎉🎉 One paper [on investigating the relationship between frequency and L2 norm of sense embeddings](https://arxiv.org/abs/2210.14815) is accepted to Findings of EMNLP 2022. 
 - *24/02/2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) is accepted to ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -31,8 +34,11 @@ My research mainly focuses on lexical semantics, especially learning the represe
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://arxiv.org/abs/2210.14815). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022).
-- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022).
+- Xiaohang Tang, ***Yi ZHou***, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://arxiv.org/abs/2208.10734). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
+- Saeth Wannasuphoprasit, ***Yi Zhou***, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High Frequency Words by L2 Norm Discounting](https://arxiv.org/abs/2305.10610). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
+- Haochen Luo, ***Yi Zhou*** and Danushka Bollegala: Together We Make Sense--Learning Meta-Sense Embeddings, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
+- **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December, 2022.
+- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022),Dublin, Ireland, 2022..
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -85,6 +91,12 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - (Co-) supervised one undergraduate student’s summer project in 2021
  
 # 💻 Professional Services
+***Tutorial Instructor***
+- Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation (Data challenge ICWSM 2023)
+
+***Workshop Co-organizer***
+-2^nd CARDIFF NLP SUMMER WORKSHOP
+
 **Reviewer**
 - ACL Rolling Review (ARR) (2021-)
 - ACL (2023)
