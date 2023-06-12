@@ -50,7 +50,7 @@ My research mainly focuses on lexical semantics, especially learning the represe
 - Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 - **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
 - Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
