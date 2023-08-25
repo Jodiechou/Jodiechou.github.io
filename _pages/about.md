@@ -85,7 +85,7 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - Teaching Assistant, Mobile Computing (2018/2019)
 - Teaching Assistant, Database Development (2018/2019)
 
-# 📚 Supervision  
+# 📚 Student Mentoring  
 **University of Liverpool**
 - Xiaohang Tang, BS stundet at University of Liverpool (2022), now a PhD student at Virginia Polytechnic Institute and State University (Co-advise with Prof. Danushka Bollegala)
 - Gaifan Zhang, BS student at University of Liverpool (2022), now a MS student at Columbia University in the City of New York (Co-advise with Prof. Danushka Bollegala)
