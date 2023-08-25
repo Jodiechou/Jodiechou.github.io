@@ -97,8 +97,6 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 ***Workshop Co-organizer***
 - 2nd Cardiff NLP Summer Workshop
 
-**Reviewer**
-- ACL Rolling Review (ARR) (2021-)
-- ACL (2023)
-- *SEM (2023)
-- EACL (2022)
+**Reviewer/Program Committee**
+- Conference: EMNLP (2023-), ACL (2023-), EACL (2022-), ACL Rolling Review (ARR) (2021-)
+- Workshop: The 12th Joint Conference on Lexical and Computational Semantics (*SEM @ ACL 2023)
