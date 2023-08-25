@@ -87,10 +87,10 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 
 # 📚 Supervision  
 **University of Liverpool**
-- (Co-) supervised one postgraduate student’s final project in 2022
-- (Co-) supervised one undergraduate student’s final project in 2022
-- (Co-) supervised two undergraduate students’ summer projects in 2022
-- (Co-) supervised one undergraduate student’s summer project in 2021
+- Xiaohang Tang, BS stundet at University of Liverpool (2022), now a PhD student at Virginia Polytechnic Institute and State University 
+- Gaifan Zhang, BS student at University of Liverpool (2022), now a MS student at Columbia University in the City of New York (Co-advise with Prof. Danushka Bollegala)
+- Saeth Wannasuphoprasit, MS studnet at University of Liverpool (2022), now a Data Scientist at Volkswagen Group of America, Innovation and Engineering Center California (IECC) (Co-advise with Prof. Danushka Bollegala)
+- Haochen Luo, BS student at University of Liverpool (2021), now a MS student at Oxford University (Co-advise with Prof. Danushka Bollegala)
  
 # 💻 Professional Services
 ***Tutorial Instructor***
