@@ -36,11 +36,11 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- Xiaohang Tang, ***Yi ZHou***, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://aclanthology.org/2023.acl-long.520/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
-- Saeth Wannasuphoprasit, ***Yi Zhou***, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High Frequency Words by L2 Norm Discounting](https://aclanthology.org/2023.findings-acl.550/). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
+- Xiaohang Tang, ***Yi Zhou ***, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://aclanthology.org/2023.acl-long.520/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July 2023.
+- Saeth Wannasuphoprasit, ***Yi Zhou***, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High-Frequency Words by L2 Norm Discounting](https://aclanthology.org/2023.findings-acl.550/). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July 2023.
 - Haochen Luo, ***Yi Zhou*** and Danushka Bollegala: [Together We Make Sense--Learning Meta-Sense Embeddings](https://aclanthology.org/2023.findings-acl.165/), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
-- **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December, 2022.
-- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022),Dublin, Ireland, 2022..
+- **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December 2022.
+- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022), Dublin, Ireland, 2022.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,7 +49,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 - **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
 - **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
-- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
+- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 - **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
 # 🎓 Education
@@ -58,7 +58,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). 
 
 # 👩‍🔬 Research Experience
-- 02/08/2023 Visiting researcher, Supervised by [Alice Oh](https://aliceoh9.github.io/)
+- 08/2023 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST), supervised by Professor [Alice Oh](https://aliceoh9.github.io/).
 
 # 🎖️ Honors and Awards
 - University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
@@ -79,7 +79,7 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 👩‍🏫 Teaching  
-**University of Liverppol**
+**University of Liverpool**
 - Teaching Assistant, Data mining and visualization (masters level) (2021/2022)
 - Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
 - Teaching Assistant, Applied Artificial Intelligence (masters level) (2020/2021)
@@ -92,10 +92,10 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 
 # 📚 Student Mentoring  
 **University of Liverpool**
-- Xiaohang Tang, BS stundet at University of Liverpool (2022), now a PhD student at Virginia Polytechnic Institute and State University (Co-advise with Prof. Danushka Bollegala)
-- Gaifan Zhang, BS student at University of Liverpool (2022), now a MS student at Columbia University in the City of New York (Co-advise with Prof. Danushka Bollegala)
-- Saeth Wannasuphoprasit, MS studnet at University of Liverpool (2022), now a Data Scientist at Volkswagen Group of America, Innovation and Engineering Center California (IECC) (Co-advise with Prof. Danushka Bollegala)
-- Haochen Luo, BS student at University of Liverpool (2021), now a MS student at Oxford University (Co-advise with Prof. Danushka Bollegala)
+- Xiaohang Tang, BS student at the University of Liverpool (2022), now a PhD student at Virginia Polytechnic Institute and State University (Co-advise with Prof. Danushka Bollegala)
+- Gaifan Zhang, BS student at the University of Liverpool (2022), now an MS student at Columbia University in the City of New York (Co-advise with Prof. Danushka Bollegala)
+- Saeth Wannasuphoprasit, MS student at the University of Liverpool (2022), now a Data Scientist at Volkswagen Group of America, Innovation and Engineering Center California (IECC) (Co-advise with Prof. Danushka Bollegala)
+- Haochen Luo, BS student at the University of Liverpool (2021), now an MS student at Oxford University (Co-advise with Prof. Danushka Bollegala)
  
 # 💻 Professional Services
 ***Tutorial Instructor***
