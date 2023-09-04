@@ -53,7 +53,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
 # 🎓 Education
-- *Dec. 2018 - May. 2023*, PhD in Computer Science (Natural Language Processing), University of Liverpool, UK. 
+- *Dec. 2018 - Jun. 2023*, PhD in Computer Science (Natural Language Processing), University of Liverpool, UK. 
 - *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
 - *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). 
 
