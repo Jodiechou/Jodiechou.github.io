@@ -31,6 +31,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - *24/02/2022*: &nbsp;🎉🎉 One paper is accepted at ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -51,16 +52,19 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 - **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
+# 🎓 Education
+- *Dec. 2018 - May. 2023*, PhD in Computer Science (Natural Language Processing), University of Liverpool, UK. 
+- *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
+- *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). 
+
+# 👩‍🔬 Research Experience
+- 02/08/2023 Visiting researcher, Supervised by [Alice Oh](https://aliceoh9.github.io/)
+
 # 🎖️ Honors and Awards
 - University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
 - Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. 
-
-<!-- # 🎓 Educations
-- *Dec. 2018 - present*, PhD student in Computer Science (Natural Language Porcessing), University of Liverpool, UK. 
-- *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
-<!-- - *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with average score 81.6%). --> 
 
 # 💬 Invited Talks
 - *Aug.2023*, NLP/Ethics Seminar, Korea Advanced Institute of Science & Technology (KAIST), Daejeon
