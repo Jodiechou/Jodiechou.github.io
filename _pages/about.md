@@ -17,26 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Research Associate in the School of Computer Science and Informatics at Cardiff University. Before I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at University of Liverpool.
+I am a Postdoctoral Research Associate in the School of Computer Science and Informatics at Cardiff University. Before I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at the University of Liverpool.
 
-My research mainly focuses on lexical semantics, especially learning the representations of word senses. This work aims to build models to create robust multi-prototype representations for different senses of words. My research interests are broadly in natural language understanding, such as language representation learning, social biases in language models, commonsense reasoning, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
+My research mainly focuses on lexical semantics and social bias in language models. My research interests are broadly in natural language understanding, such as language representation learning, commonsense reasoning, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
 
 
 # 🔥 News
-- *05/10/2023*: &nbsp;🎉🎉 One paper [on dynamic contextualised embeddings learning](https://arxiv.org/abs/2208.10734) is accepted to ACL 2023 main conference.
-- *05/10/2023*: &nbsp;🎉🎉 One paper [on solving consine similarity underestimation between high frequency words](https://arxiv.org/abs/2305.10610) is accpeted to Findings of ACL 2023.
-- *05/10/2023*: &nbsp;🎉🎉 One paper one meta-sense embeddings learning is accepted to Findings of ACL 2023.
-- *06/10/2022*: &nbsp;🎉🎉 One paper [on investigating the relationship between frequency and L2 norm of sense embeddings](https://arxiv.org/abs/2210.14815) is accepted to Findings of EMNLP 2022. 
-- *24/02/2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) is accepted to ACL 2022 main conference. 
+- *05/10/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
+- *05/10/2023*: &nbsp;🎉🎉 Two papers are accepted at Findings of ACL 2023.
+- *01/02/2023*: &nbsp;🎉🎉 I started working as a postdoctoral researcher at Professor [Jose Camacho-Collados](http://josecamachocollados.com/)'s group at Cardiff University.
+- *06/10/2022*: &nbsp;🎉🎉 One paper is accepted at Findings of EMNLP 2022. 
+- *24/02/2022*: &nbsp;🎉🎉 One paper is accepted at ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- Xiaohang Tang, ***Yi ZHou***, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://arxiv.org/abs/2208.10734). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
-- Saeth Wannasuphoprasit, ***Yi Zhou***, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High Frequency Words by L2 Norm Discounting](https://arxiv.org/abs/2305.10610). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
-- Haochen Luo, ***Yi Zhou*** and Danushka Bollegala: Together We Make Sense--Learning Meta-Sense Embeddings, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
+- Xiaohang Tang, ***Yi ZHou***, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://aclanthology.org/2023.acl-long.520/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
+- Saeth Wannasuphoprasit, ***Yi Zhou***, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High Frequency Words by L2 Norm Discounting](https://aclanthology.org/2023.findings-acl.550/). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
+- Haochen Luo, ***Yi Zhou*** and Danushka Bollegala: [Together We Make Sense--Learning Meta-Sense Embeddings](https://aclanthology.org/2023.findings-acl.165/), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
 - **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December, 2022.
 - **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022),Dublin, Ireland, 2022..
 
