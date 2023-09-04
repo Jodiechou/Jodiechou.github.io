@@ -23,8 +23,9 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 
 # 🔥 News
-- *05/10/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
-- *05/10/2023*: &nbsp;🎉🎉 Two papers are accepted at Findings of ACL 2023.
+- *02/08/2023*: &nbsp;👩‍💻👩‍💻 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST).
+- *01/05/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
+- *01/05/2023*: &nbsp;🎉🎉 Two papers are accepted at Findings of ACL 2023.
 - *01/02/2023*: &nbsp;👩‍💻👩‍💻 I started working as a postdoctoral researcher at Professor [Jose Camacho-Collados](http://josecamachocollados.com/)'s group at Cardiff University.
 - *06/10/2022*: &nbsp;🎉🎉 One paper is accepted at Findings of EMNLP 2022. 
 - *24/02/2022*: &nbsp;🎉🎉 One paper is accepted at ACL 2022 main conference. 
