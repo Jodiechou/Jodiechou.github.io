@@ -23,7 +23,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 
 # 🔥 News
-- *07/10/2023*: &nbsp;🎉🎉 One paper is accepted to EMNLP 2023 main conference/Findings.
+- *07/10/2023*: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2023 main conference/Findings.
 - *02/08/2023*: &nbsp;👩‍💻👩‍💻 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST).
 - *01/05/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
 - *01/05/2023*: &nbsp;🎉🎉 Two papers are accepted at Findings of ACL 2023.
