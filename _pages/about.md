@@ -23,6 +23,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 
 # 🔥 News
+- *07/10/2023*: &nbsp;🎉🎉 One paper is accepted to EMNLP 2023 main conference/Findings.
 - *02/08/2023*: &nbsp;👩‍💻👩‍💻 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST).
 - *01/05/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
 - *01/05/2023*: &nbsp;🎉🎉 Two papers are accepted at Findings of ACL 2023.
@@ -36,6 +37,9 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+- **Yi Zhou**, Jose Camacho Collados, and Danushka Bollegala: A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models, Proceedings of the Empirical Methods in Natural Language Processing (EMNLP), December 2023.
+- Asahi Ushio, **Yi Zhou**, Jose Camacho-Collados: An Efficient Multilingual Language Model Compression through Vocabulary Trimming, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
+- Xiaohang Tang, **Yi Zhou**, Taichi Aida, Procheta Sen and Danushka Bollegala: Can Word Sense Distribution Detect Semantic Changes of Words?, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
 - Xiaohang Tang, **Yi Zhou**, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://aclanthology.org/2023.acl-long.520/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July 2023.
 - Saeth Wannasuphoprasit, **Yi Zhou**, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High-Frequency Words by L2 Norm Discounting](https://aclanthology.org/2023.findings-acl.550/). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July 2023.
 - Haochen Luo, **Yi Zhou** and Danushka Bollegala: [Together We Make Sense--Learning Meta-Sense Embeddings](https://aclanthology.org/2023.findings-acl.165/), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
