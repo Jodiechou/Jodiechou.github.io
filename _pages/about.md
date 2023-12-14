@@ -114,5 +114,5 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 
 **Reviewer/Program Committee**
 - Conference: EMNLP (2023-), ACL (2023-), EACL (2022-), ACL Rolling Review (ARR) (2021-), *SEM (2023)
-- Journal: Information Processing and Management
+- Journal: Information Processing and Management (2023), International Journal of Data Science and Analytics (2023)
 <!--- Workshop: The 12th Joint Conference on Lexical and Computational Semantics (*SEM @ ACL 2023) -->
