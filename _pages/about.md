@@ -56,10 +56,10 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 - **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
-# 🎓 Education
+<!--- # 🎓 Education
 - *Dec. 2018 - Jun. 2023*, PhD in Computer Science (Natural Language Processing), University of Liverpool, UK. 
 - *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
-- *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). 
+- *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). -->
 
 # 👩‍🔬 Research Experience
 - 08/2023 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST), supervised by Professor [Alice Oh](https://aliceoh9.github.io/).
