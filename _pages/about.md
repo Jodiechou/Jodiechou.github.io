@@ -108,8 +108,8 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 ***Workshop Co-organizer***
 - 2nd Cardiff NLP Summer Workshop
 
-***Chair***
-- Area Chair: EACL 2024
+***Senior Member***
+- Area Chair: NAACL 2024, EACL 2024
 - Publicity Chair: *SEM 2024
 
 **Reviewer/Program Committee**
