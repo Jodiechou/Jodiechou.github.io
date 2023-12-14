@@ -32,6 +32,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - *24/02/2022*: &nbsp;🎉🎉 One paper is accepted at ACL 2022 main conference. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 📝 test
 
 # 📝 Publications 
 
