@@ -71,12 +71,12 @@ My research mainly focuses on lexical semantics and social bias in language mode
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. 
 
 # 💬 Invited Talks
-- *Aug.2023*, NLP/Ethics Seminar, Korea Advanced Institute of Science & Technology (KAIST), Daejeon
-- *Jul.2023*, NLP Group, UCL
-- *Mar. 2023*, Cardiff NLP Seminar, Cardiff University
-- *Mar. 2022*, NLP Group, University of Liverpool
-- *Jun. 2021*, ML Group, University of Liverpool
-- *May. 2019*, Research Student Talks, University of Liverpool
+- *Sep.2023*, Social Bias in Masked Language Models and Embeddings, Cardiff NLP Seminar, Cardiff NLP Seminar, Cardiff University
+- *Aug.2023*, Social Bias in Masked Language Models and Embeddings, NLP/Ethics Seminar, KAIST
+- *Jul.2023*, Social Bias in Masked Language Models and Embeddings. NLP Group, UCL
+- *Mar.2023*, Representation Learning for Word Senses and Evaluation of Their Properties, Cardiff NLP Seminar, Cardiff University
+- *Jun.2021*, Sense embeddings Learning Using Contextualised and Static Word Embeddings, ML Group, University of Liverpool
+- *May.2019*, Sense embeddings Learning Using Contextualised and Static Word Embeddings, Research Student Talks, University of Liverpool
 
 Feel free to drop me an email if you’d like me to give a talk at your event/seminar. 
 
