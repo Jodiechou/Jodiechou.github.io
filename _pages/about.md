@@ -64,7 +64,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 # 👩‍🔬 Research Experience
 - 08/2023 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST), supervised by Professor [Alice Oh](https://aliceoh9.github.io/).
 
-# 🎖️ Honors and Awards
+# 🎖️ Awards
 - University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
 - Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
