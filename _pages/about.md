@@ -23,7 +23,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 
 # 🔥 News
-- *20/02/2024*: &nbsp;🎉🎉 One paper is accepted to LREC-Coling 2024 main conference.
+- *20/02/2024*: &nbsp;🎉🎉 One paper is accepted at LREC-Coling 2024 main conference.
 - *07/10/2023*: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2023 main conference/Findings.
 - *02/08/2023*: &nbsp;👩‍💻👩‍💻 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST).
 - *01/05/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
@@ -37,6 +37,7 @@ My research mainly focuses on lexical semantics and social bias in language mode
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+- Gaifan Zhan, **Yi Zhou** and Danushka Bollegala: Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-Coling), May 2024.
 - **Yi Zhou**, Jose Camacho Collados, and Danushka Bollegala: A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models, Proceedings of the Empirical Methods in Natural Language Processing (EMNLP), December 2023.
 - Asahi Ushio, **Yi Zhou**, Jose Camacho-Collados: An Efficient Multilingual Language Model Compression through Vocabulary Trimming, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
 - Xiaohang Tang, **Yi Zhou**, Taichi Aida, Procheta Sen and Danushka Bollegala: Can Word Sense Distribution Detect Semantic Changes of Words?, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
