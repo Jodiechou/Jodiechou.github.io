@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Postdoctoral Research Associate in the School of Computer Science and Informatics at Cardiff University. Before I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department in University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at the University of Liverpool.
 
-My research mainly focuses on lexical semantics and social bias in language models. My research interests are broadly in natural language understanding, such as language representation learning, commonsense reasoning, machine translation and multiliguility approaches, text generation, interpretability and analysis of models.
+My research mainly focuses on lexical semantics and responsible AI, such as ethics, bias and fairness in NLP. My research interests are broadly in natural language understanding, such as language representation learning, multimodality, commonsense reasoning, multiliguility approaches, text generation, interpretability and analysis of models.
 
 
 # 🔥 News
