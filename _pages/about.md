@@ -110,7 +110,7 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - 2nd Cardiff NLP Summer Workshop
 
 ***Senior Member***
-- Area Chair/Action Editors: ACL 2024, EACL 2024, NAACL 2024, ACL Rolling Review (2023-)
+- Area Chair/Action Editors: ACL (2024-), EMMLP (2024-), EACL (2024-), NAACL (2024-), COLING (2024-), ACL Rolling Review (2023-)
 - Publicity Chair: *SEM 2024
 
 **Reviewer/Program Committee**
