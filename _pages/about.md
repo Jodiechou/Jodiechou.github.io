@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in the School of Computer Science and Informatics at Cardiff University. Prior to this, I was a Postdoc at the NLP group at Cardiff University. Before, I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department at the University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at the University of Liverpool.
+I am a Lecturer (Assistant Professor) in the School of Computer Science and Informatics at Cardiff University. Prior to this, I was a Postdoc at the NLP group at Cardiff University. Before, I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department at the University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at the University of Liverpool.
 
 My research mainly focuses on lexical semantics and responsible AI, such as ethics, bias and fairness in NLP. My research interests are broadly in natural language understanding, such as language representation learning, multimodality, commonsense reasoning, multiliguility approaches, text generation, interpretability and analysis of models.
 
