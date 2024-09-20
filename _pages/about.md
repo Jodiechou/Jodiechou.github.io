@@ -23,6 +23,7 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 
 
 # 🔥 News
+- *20/09/2024*: &nbsp;🎉🎉 One paper is accepted at EMNLP 2024 main conference.
 - *20/02/2024*: &nbsp;🎉🎉 One paper is accepted at LREC-Coling 2024 main conference.
 - *07/10/2023*: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2023 main conference/Findings.
 - *02/08/2023*: &nbsp;👩‍💻👩‍💻 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST).
