@@ -39,6 +39,7 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+- **Yi Zhou**, Danushka Bollegala and Jose Camacho-Collados: Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024.
 - Gaifan Zhan, **Yi Zhou** and Danushka Bollegala: Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-Coling), May 2024.
 - **Yi Zhou**, Jose Camacho Collados, and Danushka Bollegala: A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models, Proceedings of the Empirical Methods in Natural Language Processing (EMNLP), December 2023.
 - Asahi Ushio, **Yi Zhou**, Jose Camacho-Collados: An Efficient Multilingual Language Model Compression through Vocabulary Trimming, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
