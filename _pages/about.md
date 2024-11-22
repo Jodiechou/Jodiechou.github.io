@@ -52,15 +52,17 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 - **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December 2022.
 - **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022), Dublin, Ireland, 2022.
 
+<!--
+- **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
+- **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
+- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
+- **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019). -->
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
 
-- **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
-- **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
-- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
-- **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019).
 
 <!--- # 🎓 Education
 - *Dec. 2018 - Jun. 2023*, PhD in Computer Science (Natural Language Processing), University of Liverpool, UK. 
