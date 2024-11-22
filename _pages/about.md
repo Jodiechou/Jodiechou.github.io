@@ -75,9 +75,9 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 
 # 🎖️ Awards
 - University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
-- Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
+<!--- - Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
 - Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
-- Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. 
+- Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. -->
 
 # 💬 Invited Talks
 - *Sep.2023*, Social Bias in Masked Language Models and Embeddings, Cardiff NLP Seminar, Cardiff NLP Seminar, Cardiff University
