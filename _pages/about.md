@@ -92,6 +92,8 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 👩‍🏫 Teaching  
+**Cardiff University**
+- Lecturer, Data base system (2024-)
 **University of Liverpool**
 - Teaching Assistant, Data mining and visualization (masters level) (2021/2022)
 - Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
