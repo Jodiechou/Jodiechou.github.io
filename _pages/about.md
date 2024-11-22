@@ -70,7 +70,7 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 - *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). -->
 
 # 👩‍🔬 Research Experience
-- 02/2023-05/2024 Postdoc research associate at Cardiff Univerity NLP group, supervised by Professor [Jose Camacho Collados](http://josecamachocollados.com)
+- 02/2023-05/2024 Postdoc research associate at Cardiff Univerity NLP group, supervised by Professor [Jose Camacho Collados](http://josecamachocollados.com).
 - 08/2023 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST), supervised by Professor [Alice Oh](https://aliceoh9.github.io/).
 
 # 🎖️ Awards
