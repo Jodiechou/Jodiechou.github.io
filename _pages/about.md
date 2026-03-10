@@ -25,6 +25,7 @@ My research mainly focuses on responsible AI, such as ethics, bias and fairness 
 # 🔥 News
 - *04/01/2026*: &nbsp;🎉🎉 Two papers are accepted at EACL 2026 main conference.
 - *20/08/2025*: &nbsp;🎉🎉 Two papers are accepted at EMNLP 2026 (one main conference and one Findings).
+- *30/07/2025*: &nbsp;🎉🎉 Our paper "Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages" won the best resource paper at ACL 2025.
 - *26/09/2024*: &nbsp;🎉🎉 One paper is accepted at NeurIPS 2024 Datasets and Benchmarks Track.
 - *20/09/2024*: &nbsp;🎉🎉 One paper is accepted at EMNLP 2024 main conference.
 - *01/06/2024*: &nbsp;👩‍💻👩‍💻 I started working as a Lecturer (Assistant Professor) at Cardiff University.
