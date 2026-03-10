@@ -23,6 +23,8 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 
 
 # 🔥 News
+- *04/01/2026*: &nbsp;🎉🎉 Two papers are accepted at EACL 2026 main conference.
+- *20/08/2025*: &nbsp;🎉🎉 Two papers are accepted at EMNLP 2026 (one main conference and one Findings).
 - *26/09/2024*: &nbsp;🎉🎉 One paper is accepted at NeurIPS 2024 Datasets and Benchmarks Track.
 - *20/09/2024*: &nbsp;🎉🎉 One paper is accepted at EMNLP 2024 main conference.
 - *01/06/2024*: &nbsp;👩‍💻👩‍💻 I started working as a Lecturer (Assistant Professor) at Cardiff University.
@@ -40,6 +42,10 @@ My research mainly focuses on lexical semantics and responsible AI, such as ethi
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+- Tianhui Zhang · **Yi Zhou** · Danushka Bollegala: Evaluating the Effect of Retrieval Augmentation on Social Biases, Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
+- Gaifan Zhang · **Yi Zhou** · Danushka Bollegala: CASE--Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement, Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
+- Gaifan Zhang · **Yi Zhou** · Danushka Bollegala: Annotating Training Data for Conditional Semantic Textual Similarity Measurement using Large Language Models, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025).
+- Zirui Li · Siwei Wu · Xingyu Wang · **Yi Zhou** · Yizhi Li · Chenghua Lin: DocMMIR: A Framework for Document Multi-modal Information Retrieval, Proceedings of Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2025).
 - Junho Myung* · Nayeon Lee* · **Yi Zhou*** · Jiho Jin · Rifki Putri · Dimosthenis Antypas · Hsuvas Borkakoty · Eunsu Kim · Carla Perez-Almendros · Abinew Ali Ayele · Victor Gutierrez Basulto · Yazmin Ibanez-Garcia · Hwaran Lee · Shamsuddeen H Muhammad · Kiwoong Park · Anar Rzayev · Nina White · Seid Muhie Yimam · Mohammad Taher Pilehvar · Nedjma Ousidhoum · Jose Camacho-Collados · Alice Oh: BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages, Proceedings of NeurIPS 2024 Datasets and Benchmarks Track, December 2024.
 - **Yi Zhou**, Danushka Bollegala and Jose Camacho-Collados: Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024.
 - Gaifan Zhan, **Yi Zhou** and Danushka Bollegala: Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-Coling), May 2024.
