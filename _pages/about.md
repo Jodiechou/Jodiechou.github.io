@@ -100,6 +100,7 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 
 # 👩‍🏫 Teaching  
 **Cardiff University**
+- Lecturer, AI Essentials (masters level) (2026-)
 - Lecturer, Data base system (2024-)
   
 **University of Liverpool**
@@ -128,10 +129,12 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 - 2nd Cardiff NLP Summer Workshop
 
 ***Senior Member***
+- Senior Area Chair: ACL (2025-), EMNLP (2025-), EACL (2025-), ACL Rolling Review (2025-)
 - Area Chair/Action Editors: ACL (2024-), EMMLP (2024-), EACL (2024-), NAACL (2024-), COLING (2024-), ACL Rolling Review (2023-)
+- Publication Chair: *SEM 2026
 - Publicity Chair: *SEM 2024
 
 **Reviewer/Program Committee**
-- Conference: EMNLP (2023-), ACL (2023-), EACL (2022-), ACL Rolling Review (ARR) (2021-), *SEM (2023)
+- Conference: AAAI (2026), EMNLP (2023-), ACL (2023-), EACL (2022-), ACL Rolling Review (ARR) (2021-), *SEM (2023)
 - Journal: Natural Language Processing (2024), Information Processing and Management (2023), International Journal of Data Science and Analytics (2023)
 <!--- Workshop: The 12th Joint Conference on Lexical and Computational Semantics (*SEM @ ACL 2023) -->
