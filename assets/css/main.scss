@@ -107,3 +107,9 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Larger text for the homepage introduction */
+.bio-intro p {
+    font-size: 1.15em;
+    line-height: 1.6;
+}
