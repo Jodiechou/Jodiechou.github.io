@@ -1,4 +1,13 @@
 <script src="/assets/js/main.min.js"></script>
+<script>
+  // Open external links (Scholar, papers, email etc.) in a new tab; keep site pages in the same tab.
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    if (a.hostname && a.hostname !== window.location.hostname) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
