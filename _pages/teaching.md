@@ -14,7 +14,7 @@ author_profile: true
 - MSc: Data Mining and Visualisation; Machine Learning and Bio-inspired Optimisation; Applied Artificial Intelligence
 - Undergraduate: App Development; Software Engineering; Object-Oriented Programming; Computer Systems; Mobile Computing; Database Development
 
-**Student mentoring** (University of Liverpool, co-advised with Prof. Danushka Bollegala)
+**Student mentoring** (University of Liverpool, co-advised with Prof. [Danushka Bollegala](https://danushka.net))
 - Xiaohang Tang (BSc, 2022) → PhD student, Virginia Tech
 - Gaifan Zhang (BSc, 2022) → MS student, Columbia University
 - Saeth Wannasuphoprasit (MSc, 2022) → Data Scientist, Volkswagen Group of America (IECC)
