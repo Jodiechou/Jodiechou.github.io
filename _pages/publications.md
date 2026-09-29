@@ -16,11 +16,14 @@ For a full list, please see my [Google Scholar](https://scholar.google.com/citat
 - Gaifan Zhang, **Yi Zhou**, Danushka Bollegala. CASE — Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement. *EACL 2026*.
 
 ### 2025
+- Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, et al. (incl. **Yi Zhou**). BRIGHTER: Bridging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages. *ACL 2025*. 🏆 **Best Resource Paper Award**
+- Genta Indra Winata, Frederikus Hudi, Patrick Amadeus Irawan, David Anugraha, Rifki Afina Putri, Wang Yutong, Adam Nohejl, et al. (incl. **Yi Zhou**). WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines. *NAACL 2025*. 🏆 **Best Theme Paper Award**
+- Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Seid Muhie Yimam, Jan Philip Wahle, et al. (incl. **Yi Zhou**). SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection. *SemEval 2025*. 🏆 **Best Task Award**
 - Gaifan Zhang, **Yi Zhou**, Danushka Bollegala. Annotating Training Data for Conditional Semantic Textual Similarity Measurement using Large Language Models. *EMNLP 2025*.
 - Zirui Li, Siwei Wu, Xingyu Wang, **Yi Zhou**, Yizhi Li, Chenghua Lin. DocMMIR: A Framework for Document Multi-modal Information Retrieval. *Findings of EMNLP 2025*.
 
 ### 2024
-- Junho Myung\*, Nayeon Lee\*, **Yi Zhou\***, Jiho Jin, Rifki Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Victor Gutierrez Basulto, Yazmin Ibanez-Garcia, Hwaran Lee, Shamsuddeen H. Muhammad, Kiwoong Park, Anar Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh. BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages. *NeurIPS 2024 Datasets and Benchmarks Track*.
+- Junho Myung\*, Nayeon Lee\*, **Yi Zhou\***, Jiho Jin, Rifki Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Victor Gutierrez Basulto, Yazmin Ibanez-Garcia, Hwaran Lee, Shamsuddeen H. Muhammad, Kiwoong Park, Anar Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh. BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages. *NeurIPS 2024 Datasets and Benchmarks Track*. 🏆 **Best Non-archival Paper, C3NLP Workshop**
 - **Yi Zhou**, Danushka Bollegala, Jose Camacho-Collados. Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models. *EMNLP 2024*.
 - Gaifan Zhang, **Yi Zhou**, Danushka Bollegala. Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings. *LREC-COLING 2024*.
 
