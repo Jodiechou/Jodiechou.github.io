@@ -1,43 +1,25 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Experience"
+    url: "/#experience"
 
-  - title: "Research Experience"
-    url: "/#-research-experience"
+  - title: "Service"
+    url: "/#service"
+
+  - title: "Teaching"
+    url: "/#teaching"
+
+  - title: "Talks"
+    url: "/#talks"
 
   - title: "Awards"
-    url: "/#-awards"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-    
-  - title: "Teaching"
-    url: "/#-teaching"
-
-  - title: "Student Mentoring"
-    url: "/#-student-mentoring"
-
-  - title: "Professional Services"
-    url: "/#-professional-services"
-    
-#    - title: "Teaching"
-#     url: "/#-teaching"
-    
-#    - title: "Supervision"
-#     url: "/#-supervision"
-    
-#    - title: "Professional Services"
-#     url: "/#-professional-services"
-
-#   - title: "Internships"
-#     url: "/#-internships"
+    url: "/#awards"

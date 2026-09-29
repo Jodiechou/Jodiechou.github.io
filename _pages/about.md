@@ -17,124 +17,136 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer (Assistant Professor) in the School of Computer Science and Informatics at Cardiff University. Prior to this, I was a Postdoc at the NLP group at Cardiff University. Before, I was a Ph.D. student in Natural Language Processing (a branch of AI) at the Computer Science department at the University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo. Previously, I received my MSc in Big Data and High Performance Computing at the University of Liverpool.
+I am a Lecturer (Assistant Professor) in the School of Computer Science and Informatics at Cardiff University, and a member of the [Cardiff NLP](https://www.cardiffnlp.com/) group. Before that, I was a postdoctoral researcher in the same group, working with Prof. [Jose Camacho-Collados](http://josecamachocollados.com/). I received my PhD in Natural Language Processing from the University of Liverpool, advised by Prof. Danushka Bollegala and Dr. Shan Luo, and my MSc in Big Data and High Performance Computing, also from Liverpool.
 
-My research mainly focuses on responsible AI, such as ethics, bias and fairness in NLP, as well as lexical semantics. My research interests are broadly in natural language understanding, such as language representation learning, multimodality, commonsense reasoning, multiliguility approaches, text generation, interpretability and analysis of models.
+My research focuses on **responsible AI** — ethics, social bias and fairness in NLP — and on **lexical semantics**. More broadly, I am interested in natural language understanding, including language representation learning, multimodality, commonsense reasoning, multilingual and multicultural NLP, text generation, and the interpretability and analysis of language models.
 
+<span class='anchor' id='news'></span>
 
 # 🔥 News
-- *04/01/2026*: &nbsp;🎉🎉 Two papers are accepted at EACL 2026 main conference.
-- *20/08/2025*: &nbsp;🎉🎉 Two papers are accepted at EMNLP 2026 (one main conference and one Findings).
-- *30/07/2025*: &nbsp;🎉🎉 Our paper "Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages" won the best resource paper at ACL 2025.
-- *26/09/2024*: &nbsp;🎉🎉 One paper is accepted at NeurIPS 2024 Datasets and Benchmarks Track.
-- *20/09/2024*: &nbsp;🎉🎉 One paper is accepted at EMNLP 2024 main conference.
-- *01/06/2024*: &nbsp;👩‍💻👩‍💻 I started working as a Lecturer (Assistant Professor) at Cardiff University.
-- *20/02/2024*: &nbsp;🎉🎉 One paper is accepted at LREC-Coling 2024 main conference.
-- *07/10/2023*: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2023 main conference/Findings.
-- *02/08/2023*: &nbsp;👩‍💻👩‍💻 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST).
-- *01/05/2023*: &nbsp;🎉🎉 One paper is accepted at ACL 2023 main conference.
-- *01/05/2023*: &nbsp;🎉🎉 Two papers are accepted at Findings of ACL 2023.
-- *01/02/2023*: &nbsp;👩‍💻👩‍💻 I started working as a postdoctoral researcher at Professor [Jose Camacho-Collados](http://josecamachocollados.com/)'s group at Cardiff University.
-- *06/10/2022*: &nbsp;🎉🎉 One paper is accepted at Findings of EMNLP 2022. 
-- *24/02/2022*: &nbsp;🎉🎉 One paper is accepted at ACL 2022 main conference. 
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *04/01/2026*: &nbsp;🎉 Two papers accepted at the EACL 2026 main conference.
+- *20/08/2025*: &nbsp;🎉 Two papers accepted at EMNLP 2025 (one main conference, one Findings).
+- *30/07/2025*: &nbsp;🏆 Our paper "BRIGHTER: Bridging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages" won the **Best Resource Paper Award** at ACL 2025.
+- *26/09/2024*: &nbsp;🎉 One paper accepted at the NeurIPS 2024 Datasets and Benchmarks Track.
+- *20/09/2024*: &nbsp;🎉 One paper accepted at the EMNLP 2024 main conference.
+- *01/06/2024*: &nbsp;👩‍💻 I started as a Lecturer (Assistant Professor) at Cardiff University.
 
-# 📝 Selected Publications 
+<details markdown="1">
+<summary>Earlier news</summary>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-- Tianhui Zhang · **Yi Zhou** · Danushka Bollegala: Evaluating the Effect of Retrieval Augmentation on Social Biases, Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
-- Gaifan Zhang · **Yi Zhou** · Danushka Bollegala: CASE--Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement, Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
-- Gaifan Zhang · **Yi Zhou** · Danushka Bollegala: Annotating Training Data for Conditional Semantic Textual Similarity Measurement using Large Language Models, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025).
-- Zirui Li · Siwei Wu · Xingyu Wang · **Yi Zhou** · Yizhi Li · Chenghua Lin: DocMMIR: A Framework for Document Multi-modal Information Retrieval, Proceedings of Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2025).
-- Junho Myung* · Nayeon Lee* · **Yi Zhou*** · Jiho Jin · Rifki Putri · Dimosthenis Antypas · Hsuvas Borkakoty · Eunsu Kim · Carla Perez-Almendros · Abinew Ali Ayele · Victor Gutierrez Basulto · Yazmin Ibanez-Garcia · Hwaran Lee · Shamsuddeen H Muhammad · Kiwoong Park · Anar Rzayev · Nina White · Seid Muhie Yimam · Mohammad Taher Pilehvar · Nedjma Ousidhoum · Jose Camacho-Collados · Alice Oh: BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages, Proceedings of NeurIPS 2024 Datasets and Benchmarks Track, December 2024.
-- **Yi Zhou**, Danushka Bollegala and Jose Camacho-Collados: Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024.
-- Gaifan Zhan, **Yi Zhou** and Danushka Bollegala: Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-Coling), May 2024.
-- **Yi Zhou**, Jose Camacho Collados, and Danushka Bollegala: A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models, Proceedings of the Empirical Methods in Natural Language Processing (EMNLP), December 2023.
-- Asahi Ushio, **Yi Zhou**, Jose Camacho-Collados: An Efficient Multilingual Language Model Compression through Vocabulary Trimming, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
-- Xiaohang Tang, **Yi Zhou**, Taichi Aida, Procheta Sen and Danushka Bollegala: Can Word Sense Distribution Detect Semantic Changes of Words?, Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December 2023.
-- Xiaohang Tang, **Yi Zhou**, Danushka Bollegala: [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://aclanthology.org/2023.acl-long.520/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July 2023.
-- Saeth Wannasuphoprasit, **Yi Zhou**, Danushka Bollegala: [Solving Cosine Similarity Underestimation between High-Frequency Words by L2 Norm Discounting](https://aclanthology.org/2023.findings-acl.550/). In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July 2023.
-- Haochen Luo, **Yi Zhou** and Danushka Bollegala: [Together We Make Sense--Learning Meta-Sense Embeddings](https://aclanthology.org/2023.findings-acl.165/), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
-- **Yi Zhou**, Danushka Bollegala: [On the Curious Case of ℓ2 norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). In Findings of the Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December 2022.
-- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022), Dublin, Ireland, 2022.
+- *20/02/2024*: &nbsp;🎉 One paper accepted at the LREC-COLING 2024 main conference.
+- *07/10/2023*: &nbsp;🎉 Three papers accepted at EMNLP 2023 (main conference and Findings).
+- *02/08/2023*: &nbsp;👩‍💻 Visiting researcher at the [Users & Information Lab](https://uilab.kr/), KAIST.
+- *01/05/2023*: &nbsp;🎉 One paper accepted at the ACL 2023 main conference and two at Findings of ACL 2023.
+- *01/02/2023*: &nbsp;👩‍💻 I started as a postdoctoral researcher in Prof. [Jose Camacho-Collados](http://josecamachocollados.com/)'s group at Cardiff University.
+- *06/10/2022*: &nbsp;🎉 One paper accepted at Findings of EMNLP 2022.
+- *24/02/2022*: &nbsp;🎉 One paper accepted at the ACL 2022 main conference.
+
+</details>
+
+<span class='anchor' id='publications'></span>
+
+# 📝 Selected Publications
+
+For a full list, please see my [Google Scholar](https://scholar.google.com/citations?user=3BdddIMAAAAJ&hl=en) profile. (* equal contribution)
+
+### 2026
+- Tianhui Zhang, **Yi Zhou**, Danushka Bollegala. Evaluating the Effect of Retrieval Augmentation on Social Biases. *EACL 2026*.
+- Gaifan Zhang, **Yi Zhou**, Danushka Bollegala. CASE — Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement. *EACL 2026*.
+
+### 2025
+- Gaifan Zhang, **Yi Zhou**, Danushka Bollegala. Annotating Training Data for Conditional Semantic Textual Similarity Measurement using Large Language Models. *EMNLP 2025*.
+- Zirui Li, Siwei Wu, Xingyu Wang, **Yi Zhou**, Yizhi Li, Chenghua Lin. DocMMIR: A Framework for Document Multi-modal Information Retrieval. *Findings of EMNLP 2025*.
+
+### 2024
+- Junho Myung\*, Nayeon Lee\*, **Yi Zhou\***, Jiho Jin, Rifki Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Victor Gutierrez Basulto, Yazmin Ibanez-Garcia, Hwaran Lee, Shamsuddeen H. Muhammad, Kiwoong Park, Anar Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh. BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages. *NeurIPS 2024 Datasets and Benchmarks Track*.
+- **Yi Zhou**, Danushka Bollegala, Jose Camacho-Collados. Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models. *EMNLP 2024*.
+- Gaifan Zhang, **Yi Zhou**, Danushka Bollegala. Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings. *LREC-COLING 2024*.
+
+### 2023
+- **Yi Zhou**, Jose Camacho-Collados, Danushka Bollegala. A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models. *EMNLP 2023*.
+- Asahi Ushio, **Yi Zhou**, Jose Camacho-Collados. An Efficient Multilingual Language Model Compression through Vocabulary Trimming. *Findings of EMNLP 2023*.
+- Xiaohang Tang, **Yi Zhou**, Taichi Aida, Procheta Sen, Danushka Bollegala. Can Word Sense Distribution Detect Semantic Changes of Words? *Findings of EMNLP 2023*.
+- Xiaohang Tang, **Yi Zhou**, Danushka Bollegala. [Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation](https://aclanthology.org/2023.acl-long.520/). *ACL 2023*.
+- Saeth Wannasuphoprasit, **Yi Zhou**, Danushka Bollegala. [Solving Cosine Similarity Underestimation between High-Frequency Words by L2 Norm Discounting](https://aclanthology.org/2023.findings-acl.550/). *Findings of ACL 2023*.
+- Haochen Luo, **Yi Zhou**, Danushka Bollegala. [Together We Make Sense — Learning Meta-Sense Embeddings](https://aclanthology.org/2023.findings-acl.165/). *Findings of ACL 2023*.
+
+### 2022
+- **Yi Zhou**, Danushka Bollegala. [On the Curious Case of ℓ2 Norm of Sense Embeddings](https://aclanthology.org/2022.findings-emnlp.190/). *Findings of EMNLP 2022*.
+- **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala. [Sense Embeddings are also Biased — Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). *ACL 2022*.
 
 <!--
-- **Yi Zhou**, Danushka Bollegala: [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://aclanthology.org/2021.paclic-1.52.pdf). In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
-- **Yi Zhou**, Danushka Bollegala: [Predicting the Quality of Translation without an Oracle](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). In Communications in Computer and Information Science (CCIS), 2020.
-- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo: [Spatio-temporal attention model for tactile texture recognition](https://arxiv.org/abs/2008.04442). In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
-- **Yi Zhou**, Danushka Bollegala: [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). In Proceedings of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2019). -->
+Earlier publications (hidden):
+- **Yi Zhou**, Danushka Bollegala. [Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy](https://aclanthology.org/2021.paclic-1.52.pdf). *PACLIC 2021*.
+- **Yi Zhou**, Danushka Bollegala. [Predicting the Quality of Translation without an Oracle](https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1). *CCIS*, 2020.
+- Guanqun Cao, **Yi Zhou**, Danushka Bollegala, Shan Luo. [Spatio-temporal Attention Model for Tactile Texture Recognition](https://arxiv.org/abs/2008.04442). *IROS 2020*.
+- **Yi Zhou**, Danushka Bollegala. [Unsupervised Evaluation of Human Translation Quality](https://www.researchgate.net/publication/336226160_Unsupervised_Evaluation_of_Human_Translation_Quality). *KDIR 2019*.
+-->
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
+<span class='anchor' id='experience'></span>
 
+# 👩‍🔬 Experience
+- *06/2024 – present*: Lecturer (Assistant Professor), School of Computer Science and Informatics, Cardiff University.
+- *02/2023 – 05/2024*: Postdoctoral Research Associate, Cardiff NLP, Cardiff University, with Prof. [Jose Camacho-Collados](http://josecamachocollados.com/).
+- *08/2023*: Visiting Researcher, [Users & Information Lab](https://uilab.kr/), KAIST, with Prof. [Alice Oh](https://aliceoh9.github.io/).
 
-<!--- # 🎓 Education
-- *Dec. 2018 - Jun. 2023*, PhD in Computer Science (Natural Language Processing), University of Liverpool, UK. 
-- *Sep. 2017 - Dec. 2018*, MSc in Big Data & High-Performance Computing, University of Liverpool, UK (awarded with distinction). 
-- *Sep. 2009 - Jun. 2013*, Bachelor in Information Management & Information System, Hubei University of Automotive Technology, China (awarded with an average score of 81.6%). -->
+<!--
+Education (hidden):
+- *12/2018 – 06/2023*: PhD in Computer Science (Natural Language Processing), University of Liverpool, UK.
+- *09/2017 – 12/2018*: MSc in Big Data & High-Performance Computing (Distinction), University of Liverpool, UK.
+- *09/2009 – 06/2013*: BSc in Information Management & Information Systems, Hubei University of Automotive Technology, China.
+-->
 
-# 👩‍🔬 Research Experience
-- 02/2023-05/2024 Postdoc research associate at Cardiff Univerity NLP group, supervised by Professor [Jose Camacho Collados](http://josecamachocollados.com).
-- 08/2023 Visiting researcher at [Users & Information Lab](https://uilab.kr/) at Korea Advanced Institute of Science & Technology (KAIST), supervised by Professor [Alice Oh](https://aliceoh9.github.io/).
+<span class='anchor' id='service'></span>
 
-# 🎖️ Awards
-- University of Liverpool Graduate Association Hong Kong and Tung Scholarships. University of Liverpool, UK, 2021-2022. 
-<!--- - Second Place Dongfeng Scholarship, Hubei University of Automotive Technology, China, 2013.
-- Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2011-2012.
-- Third Place People’s Public Fund Scholarship, Hubei University of Automotive Technology, China, 2010-2011. -->
+# 💻 Professional Service
+
+**Senior roles**
+- Senior Area Chair: ACL (2025–), EMNLP (2025–), EACL (2025–), ACL Rolling Review (2025–)
+- Area Chair / Action Editor: ACL (2024–), EMNLP (2024–), EACL (2024–), NAACL (2024–), COLING (2024–), ACL Rolling Review (2023–)
+
+**Organising**
+- Publication Chair: \*SEM 2026
+- Publicity Chair: \*SEM 2024
+- Co-organiser: 2nd Cardiff NLP Summer Workshop
+- Tutorial Instructor: Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation (ICWSM 2023 Data Challenge)
+
+**Reviewing**
+- Conferences: AAAI (2026), EMNLP (2023–), ACL (2023–), EACL (2022–), ACL Rolling Review (2021–), \*SEM (2023)
+- Journals: Natural Language Processing (2024), Information Processing & Management (2023), International Journal of Data Science and Analytics (2023)
+
+<span class='anchor' id='teaching'></span>
+
+# 👩‍🏫 Teaching & Mentoring
+
+**Lecturer, Cardiff University**
+- AI Essentials (MSc) (2026–)
+- Database Systems (2024–)
+
+**Teaching Assistant, University of Liverpool (2018–2022)**
+- MSc: Data Mining and Visualisation; Machine Learning and Bio-inspired Optimisation; Applied Artificial Intelligence
+- Undergraduate: App Development; Software Engineering; Object-Oriented Programming; Computer Systems; Mobile Computing; Database Development
+
+**Student mentoring** (University of Liverpool, co-advised with Prof. Danushka Bollegala)
+- Xiaohang Tang (BSc, 2022) → PhD student, Virginia Tech
+- Gaifan Zhang (BSc, 2022) → MS student, Columbia University
+- Saeth Wannasuphoprasit (MSc, 2022) → Data Scientist, Volkswagen Group of America (IECC)
+- Haochen Luo (BSc, 2021) → MS student, University of Oxford
+
+<span class='anchor' id='talks'></span>
 
 # 💬 Invited Talks
-- *Sep.2023*, Social Bias in Masked Language Models and Embeddings, Cardiff NLP Seminar, Cardiff NLP Seminar, Cardiff University
-- *Aug.2023*, Social Bias in Masked Language Models and Embeddings, NLP/Ethics Seminar, KAIST
-- *Jul.2023*, Social Bias in Masked Language Models and Embeddings. NLP Group, UCL
-- *Mar.2023*, Representation Learning for Word Senses and Evaluation of Their Properties, Cardiff NLP Seminar, Cardiff University
-- *Jun.2021*, Sense embeddings Learning Using Contextualised and Static Word Embeddings, ML Group, University of Liverpool
-- *May.2019*, Sense embeddings Learning Using Contextualised and Static Word Embeddings, Research Student Talks, University of Liverpool
+- *09/2023*: Social Bias in Masked Language Models and Embeddings — Cardiff NLP Seminar, Cardiff University
+- *08/2023*: Social Bias in Masked Language Models and Embeddings — NLP/Ethics Seminar, KAIST
+- *07/2023*: Social Bias in Masked Language Models and Embeddings — NLP Group, UCL
+- *03/2023*: Representation Learning for Word Senses and Evaluation of Their Properties — Cardiff NLP Seminar, Cardiff University
+- *06/2021*: Sense Embedding Learning Using Contextualised and Static Word Embeddings — ML Group, University of Liverpool
+- *05/2019*: Sense Embedding Learning Using Contextualised and Static Word Embeddings — Research Student Talks, University of Liverpool
 
-Feel free to drop me an email if you’d like me to give a talk at your event/seminar. 
+Feel free to email me if you'd like me to give a talk at your event or seminar.
 
-<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<span class='anchor' id='awards'></span>
 
-# 👩‍🏫 Teaching  
-**Cardiff University**
-- Lecturer, AI Essentials (masters level) (2026-)
-- Lecturer, Data base system (2024-)
-  
-**University of Liverpool**
-- Teaching Assistant, Data mining and visualization (masters level) (2021/2022)
-- Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
-- Teaching Assistant, Applied Artificial Intelligence (masters level) (2020/2021)
-- Teaching Assistant, App Development (2020/2021, 2019/2020, 2018/2019)
-- Teaching Assistant, Software Engineering (2020/2021, 2019/2020)
-- Teaching Assistant, Object-Oriented Programming (2019/2020)
-- Teaching Assistant, Computer Systems (2018/2019)
-- Teaching Assistant, Mobile Computing (2018/2019)
-- Teaching Assistant, Database Development (2018/2019)
-
-# 📚 Student Mentoring  
-**University of Liverpool**
-- Xiaohang Tang, BS student at the University of Liverpool (2022), now a PhD student at Virginia Polytechnic Institute and State University (Co-advise with Prof. Danushka Bollegala)
-- Gaifan Zhang, BS student at the University of Liverpool (2022), now an MS student at Columbia University in the City of New York (Co-advise with Prof. Danushka Bollegala)
-- Saeth Wannasuphoprasit, MS student at the University of Liverpool (2022), now a Data Scientist at Volkswagen Group of America, Innovation and Engineering Center California (IECC) (Co-advise with Prof. Danushka Bollegala)
-- Haochen Luo, BS student at the University of Liverpool (2021), MS student at Oxford University (Co-advise with Prof. Danushka Bollegala)
- 
-# 💻 Professional Services
-***Tutorial Instructor***
-- Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation (Data challenge ICWSM 2023)
-
-***Workshop Co-organizer***
-- 2nd Cardiff NLP Summer Workshop
-
-***Senior Member***
-- Senior Area Chair: ACL (2025-), EMNLP (2025-), EACL (2025-), ACL Rolling Review (2025-)
-- Area Chair/Action Editors: ACL (2024-), EMMLP (2024-), EACL (2024-), NAACL (2024-), COLING (2024-), ACL Rolling Review (2023-)
-- Publication Chair: *SEM 2026
-- Publicity Chair: *SEM 2024
-
-**Reviewer/Program Committee**
-- Conference: AAAI (2026), EMNLP (2023-), ACL (2023-), EACL (2022-), ACL Rolling Review (ARR) (2021-), *SEM (2023)
-- Journal: Natural Language Processing (2024), Information Processing and Management (2023), International Journal of Data Science and Analytics (2023)
-<!--- Workshop: The 12th Joint Conference on Lexical and Computational Semantics (*SEM @ ACL 2023) -->
+# 🎖️ Awards
+- *2025*: Best Resource Paper Award, ACL 2025
+- *2021–2022*: Graduate Association Hong Kong and Tung Scholarship, University of Liverpool
