@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="bio-intro" markdown="1">
 
-I am a Lecturer (Assistant Professor) in the School of Computer Science and Informatics at Cardiff University, and a member of the [Cardiff NLP](https://www.cardiffnlp.com/) group. Before that, I was a postdoctoral researcher in the same group, working with Prof. [Jose Camacho-Collados](http://josecamachocollados.com/). I received my PhD in Natural Language Processing from the University of Liverpool, advised by Prof. [Danushka Bollegala](https://danushka.net) and Dr. [Shan Luo](https://shanluo.github.io), and my MSc in Big Data and High Performance Computing, also from Liverpool.
+I am a Lecturer (Assistant Professor) in the School of Computer Science and Informatics at Cardiff University, and a member of the [Cardiff NLP](https://www.cardiffnlp.com/) group. Before that, I was a postdoctoral researcher in the same group, working with Prof [Jose Camacho-Collados](http://josecamachocollados.com/). I received my PhD in Natural Language Processing from the University of Liverpool, advised by Prof [Danushka Bollegala](https://danushka.net) and Prof [Shan Luo](https://shanluo.github.io), and my MSc in Big Data and High Performance Computing, also from Liverpool.
 
 My research focuses on **responsible AI** — ethics, social bias and fairness in NLP — and on **lexical semantics**. More broadly, I am interested in natural language understanding, including language representation learning, multimodality, commonsense reasoning, multilingual and multicultural NLP, text generation, and the interpretability and analysis of language models.
 
